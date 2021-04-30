@@ -1,0 +1,26 @@
+/*
+Theme Name: BestAid
+Theme URI: http://bestaidbd.com
+Author: Sk Shamimul Islam
+Author URI: http://bestaidbd.com
+Description: Custom BestAid Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: BestAid
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap");	
+@import url("css/bootstrap.min.css");
+@import url("css/nice-select.css");
+@import url("css/font-awesome.min.css");
+@import url("css/icofont.css");
+@import url("css/slicknav.min.css");
+@import url("css/owl-carousel.css");
+@import url("css/datepicker.css");
+@import url("css/animate.min.css");
+@import url("css/magnific-popup.css");
+@import url("css/normalize.css");
+@import url("styles.css");
+@import url("css/responsive.css");
+@import url("css/color/color1.css");
