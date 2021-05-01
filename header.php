@@ -100,54 +100,14 @@
 									}
 									?>
 
-									<!-- <ul class="nav menu">
-										<li class="active"><a href="#">Home <i class="icofont-rounded-down"></i></a>
-											<ul class="dropdown">
-												<li><a href="index.html">Home Page 1</a></li>
-												<li><a href="index2.html">Home Page 2</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Doctos <i class="icofont-rounded-down"></i></a>
-											<ul class="dropdown">
-												<li><a href="doctors.html">Doctor</a></li>
-												<li><a href="doctor-details.html">Doctor Details</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Services <i class="icofont-rounded-down"></i></a>
-											<ul class="dropdown">
-												<li><a href="service.html">Service</a></li>
-												<li><a href="service-details.html">Service Details</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
-											<ul class="dropdown">
-												<li><a href="about.html">About Us</a></li>
-												<li><a href="appointment.html">Appointment</a></li>
-												<li><a href="time-table.html">Time Table</a></li>
-												<li><a href="testimonials.html">Testimonials</a></li>
-												<li><a href="pricing.html">Our Pricing</a></li>
-												<li><a href="register.html">Sign Up</a></li>
-												<li><a href="login.html">Login</a></li>
-												<li><a href="faq.html">Faq</a></li>
-												<li><a href="mail-success.html">Mail Success</a></li>
-												<li><a href="404.html">404 Error</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Blogs <i class="icofont-rounded-down"></i></a>
-											<ul class="dropdown">
-												<li><a href="blog-grid.html">Blog Grid</a></li>
-												<li><a href="blog-single.html">Blog Details</a></li>
-											</ul>
-										</li>
-										<li><a href="contact.html">Contact Us</a></li>
-									</ul> -->
+									
 								</nav>
 							</div>
 							<!--/ End Main Menu -->
 						</div>
 						<div class="col-lg-2 col-12">
 							<div class="get-quote">
-								<a href="appointment.html" class="btn">Appointment</a>
+								<a href="http://bestaidbd.sheikhsoft.com/appointment/" class="btn">Appointment</a>
 							</div>
 						</div>
 					</div>
