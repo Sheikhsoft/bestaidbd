@@ -38,7 +38,9 @@ function bestaid_theme_setup()
     add_theme_support('automatic-feed-links');
 
     register_nav_menus(array(
-        'primary'   => __('Primary Menu', 'bestaid')
+        'primary'   => __('Primary Menu', 'bestaid'),
+        'top_menu'   => __('Top Menu', 'bestaid'),
+        
     ));
 };
 add_action('after_setup_theme', 'bestaid_theme_setup');
