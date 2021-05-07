@@ -4,7 +4,7 @@
 	<div class="hero-slider">
 
 		<!-- Start Single Slider -->
-		<div class="single-slider" style="background-image:url('http://bestaidbd.sheikhsoft.com/wp-content/uploads/2021/05/slider2.jpg')">
+		<div class="single-slider" style="background-image:url('http://bestaidbd.sheikhsoft.com/wp-content/uploads/2021/05/Slide-2.png')">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-7">
@@ -23,7 +23,7 @@
 		</div>
 		<!-- Start End Slider -->
 		<!-- Start Single Slider -->
-		<div class="single-slider" style="background-image:url('http://bestaidbd.sheikhsoft.com/wp-content/uploads/2021/05/slider.jpg')">
+		<div class="single-slider" style="background-image:url('http://bestaidbd.sheikhsoft.com/wp-content/uploads/2021/05/Slide-1.png')">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-7">
