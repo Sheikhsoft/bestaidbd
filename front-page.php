@@ -4,17 +4,16 @@
 	<div class="hero-slider">
 
 		<!-- Start Single Slider -->
-		<div class="single-slider" style="background-image:url('http://bestaidbd.sheikhsoft.com/wp-content/uploads/2021/05/slider-4.png')">
+		<div class="single-slider" style="background-image:url('http://bestaidbd.com/wp-content/uploads/2021/05/slider-4.png')">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="text">
-							<h1>We Provide <span>Medical</span> Services That You Can <span>Trust!</span></h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl
-								pellentesque, faucibus libero eu, gravida quam. </p>
+							<h1>Emergency <span>Medical</span> Service at Your <span>Doorstep!</span></h1>
+							<p>Need emergency medical attention? Any hour, from any place, call us to enjoy the finest and most affordable health care.  </p>
 							<div class="button">
-								<a href="#" class="btn">Get Appointment</a>
-								<a href="#" class="btn primary">About Us</a>
+								<a href="http://bestaidbd.com/appointment/" class="btn">Get Appointment</a>
+								<a href="http://bestaidbd.com/contact/#/" class="btn primary">Contact Us</a>
 							</div>
 						</div>
 					</div>
@@ -23,17 +22,16 @@
 		</div>
 		<!-- Start End Slider -->
 		<!-- Start Single Slider -->
-		<div class="single-slider" style="background-image:url('http://bestaidbd.sheikhsoft.com/wp-content/uploads/2021/05/slider-3.png')">
+		<div class="single-slider" style="background-image:url('http://bestaidbd.com/wp-content/uploads/2021/05/slider-3.png')">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="text">
 							<h1>We Provide <span>Medical</span> Services That You Can <span>Trust!</span></h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl
-								pellentesque, faucibus libero eu, gravida quam. </p>
+							<p>Our journey started with the motto to make medical service available at every door in Bangladesh. So, trust Best Aid in your need. We are just one call away from you.</p>
 							<div class="button">
-								<a href="#" class="btn">Get Appointment</a>
-								<a href="#" class="btn primary">Conatct Now</a>
+								<a href="http://bestaidbd.com/appointment/" class="btn">Get Appointment</a>
+								<a href="http://bestaidbd.com/contact/#/" class="btn primary">Conatct Now</a>
 							</div>
 						</div>
 					</div>
@@ -57,11 +55,10 @@
 								<i class="fa fa-ambulance"></i>
 							</div>
 							<div class="single-content">
-								<span>Lorem Amet</span>
+								<span>BestAid</span>
 								<h4>Emergency Cases</h4>
-								<p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus
-									convallis sodales.</p>
-								<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+								<p>In case of emergency services or information, please contact our hotline number. We all are here to serve you 24/7.</p>
+								
 							</div>
 						</div>
 					</div>
@@ -74,11 +71,10 @@
 								<i class="icofont-prescription"></i>
 							</div>
 							<div class="single-content">
-								<span>Fusce Porttitor</span>
+								<span>Bestaid</span>
 								<h4>Doctors Timetable</h4>
-								<p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus
-									convallis sodales.</p>
-								<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+								<p>Our general doctor and special doctor’s large poll are always available to help you on shifting basis.</p>
+								
 							</div>
 						</div>
 					</div>
@@ -91,14 +87,10 @@
 								<i class="icofont-ui-clock"></i>
 							</div>
 							<div class="single-content">
-								<span>Donec luctus</span>
+								<span>BestAid</span>
 								<h4>Opening Hours</h4>
-								<ul class="time-sidual">
-									<li class="day">Monday - Fridayp <span>8.00-20.00</span></li>
-									<li class="day">Saturday <span>9.00-18.30</span></li>
-									<li class="day">Monday - Thusday <span>9.00-15.00</span></li>
-								</ul>
-								<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+								<p>Our telemedicine service is always open for the patient.</p>
+								
 							</div>
 						</div>
 					</div>
@@ -117,7 +109,7 @@
 				<div class="section-title">
 					<h2>We Are Always Ready to Help You & Your Family</h2>
 					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img.png" alt="#">
-					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
+					<p>You and your family is fully covered under the high-quality and sincerest service of our doctors. Every time you knock, we will be here for you!</p>
 				</div>
 			</div>
 		</div>
@@ -129,7 +121,7 @@
 						<i class="icofont icofont-ambulance-cross"></i>
 					</div>
 					<h3>Emergency Help</h3>
-					<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+					<p>Do you need us? Contact us for immediate emergency service.</p>
 				</div>
 				<!-- End Single features -->
 			</div>
@@ -140,7 +132,7 @@
 						<i class="icofont icofont-medical-sign-alt"></i>
 					</div>
 					<h3>Enriched Pharmecy</h3>
-					<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+					<p>Can’t find the prescribed medicine anywhere? Let us know and help you.</p>
 				</div>
 				<!-- End Single features -->
 			</div>
@@ -151,7 +143,7 @@
 						<i class="icofont icofont-stethoscope"></i>
 					</div>
 					<h3>Medical Treatment</h3>
-					<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+					<p>Looking for general or long-term medical treatment right at your home? Book your time now!</p>
 				</div>
 				<!-- End Single features -->
 			</div>
@@ -219,9 +211,9 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title">
-					<h2>We Offer Different Services To Improve Your Health</h2>
+					<h2>All the Medical Treatment Services at One Place</h2>
 					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img.png" alt="#">
-					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
+					<p>Physical or mental, chronic or regular- solution of your every health problems are now one tap away!</p>
 				</div>
 			</div>
 		</div>
@@ -230,23 +222,21 @@
 				<!-- Start Choose Left -->
 				<div class="choose-left">
 					<h3>Who We Are</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra antege vel est
-						lobortis, a commodo magna rhoncus. In quis nisi non emet quam pharetra commodo. </p>
-					<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-					</p>
+					<p>Best Aid is a 360 Degree one stop telehealth solution, working with the mission to make health care easily accessible premium and Tech-based health service platform at the fingertip of every citizen of Bangladesh. While starting its journey in 2019, the ultimate goal of Best Aid always has been building a community that will help to reach more people under the radar of telemedicine health service with the help of Best Aid.</p>
 					<div class="row">
 						<div class="col-lg-6">
 							<ul class="list">
-								<li><i class="fa fa-caret-right"></i>Maecenas vitae luctus nibh. </li>
-								<li><i class="fa fa-caret-right"></i>Duis massa massa.</li>
-								<li><i class="fa fa-caret-right"></i>Aliquam feugiat interdum.</li>
+
+								<li><i class="fa fa-caret-right"></i>24/7 telelmedicine service</li>
+								<li><i class="fa fa-caret-right"></i>Home diagnostic service</li>
+								<li><i class="fa fa-caret-right"></i>Home nursing</li>
 							</ul>
 						</div>
 						<div class="col-lg-6">
 							<ul class="list">
-								<li><i class="fa fa-caret-right"></i>Maecenas vitae luctus nibh. </li>
-								<li><i class="fa fa-caret-right"></i>Duis massa massa.</li>
-								<li><i class="fa fa-caret-right"></i>Aliquam feugiat interdum.</li>
+								<li><i class="fa fa-caret-right"></i>Covid-19 sample collection </li>
+								<li><i class="fa fa-caret-right"></i>Emergency Oxygen supply</li>
+								<li><i class="fa fa-caret-right"></i>Numerous numbers of specialized doctors in different sector</li>
 							</ul>
 						</div>
 					</div>
@@ -254,22 +244,7 @@
 				<!-- End Choose Left -->
 			</div>
 			<div class="col-lg-6 col-12">
-				<!-- Start Choose Rights -->
-				<div class="choose-right">
-					<div class="video-image">
-						<!-- Video Animation -->
-						<div class="promo-video">
-							<div class="waves-block">
-								<div class="waves wave-1"></div>
-								<div class="waves wave-2"></div>
-								<div class="waves wave-3"></div>
-							</div>
-						</div>
-						<!--/ End Video Animation -->
-						<a href="https://www.youtube.com/watch?v=RFVXy6CRVR4" class="video video-popup mfp-iframe"><i class="fa fa-play"></i></a>
-					</div>
-				</div>
-				<!-- End Choose Rights -->
+				<img src="http://bestaidbd.com/wp-content/uploads/2021/05/1.png" />
 			</div>
 		</div>
 	</div>
@@ -283,11 +258,10 @@
 			<div class="col-lg-12 col-md-12 col-12">
 				<div class="content">
 					<h2>Do you need Emergency Medical Care? Call @ 1234 56789</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porttitor dictum turpis nec
-						gravida.</p>
+					<p>Anytime, anywhere, reach us to access the easiest and most affordable medical service without second thought.</p>
 					<div class="button">
-						<a href="#" class="btn">Contact Now</a>
-						<a href="#" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+						<a href="http://bestaidbd.com/contact/#/" class="btn">Contact Now</a>
+						
 					</div>
 				</div>
 			</div>
@@ -295,62 +269,6 @@
 	</div>
 </section>
 <!--/ End Call to action -->
-
-<!-- Start portfolio -->
-<section class="portfolio section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="section-title">
-					<h2>We Maintain Cleanliness Rules Inside Our Hospital</h2>
-					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img.png" alt="#">
-					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-lg-12 col-12">
-				<div class="owl-carousel portfolio-slider">
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf1.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf2.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf3.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf4.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf1.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf2.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf3.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-					<div class="single-pf">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/pf4.jpg" alt="#">
-						<a href="portfolio-details.html" class="btn">View Details</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--/ End portfolio -->
 
 <!-- Start service -->
 <section class="services section">
@@ -360,7 +278,7 @@
 				<div class="section-title">
 					<h2>We Offer Different Services To Improve Your Health</h2>
 					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img.png" alt="#">
-					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
+					
 				</div>
 			</div>
 		</div>
@@ -369,9 +287,8 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-prescription"></i>
-					<h4><a href="service-details.html">General Treatment</a></h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
-						imperdiet. </p>
+					<h4><a href="#">Diabetic Treatment</a></h4>
+					<p>For daily diabetic problem’s solution, we have the easiest way for you. </p>
 				</div>
 				<!-- End Single Service -->
 			</div>
@@ -379,9 +296,8 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-tooth"></i>
-					<h4><a href="service-details.html">Teeth Whitening</a></h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
-						imperdiet. </p>
+					<h4><a href="#">Heart Problem</a></h4>
+					<p>Don’t let your heart be suffered. Enjoy immediate treatment of your heart issues now.</p>
 				</div>
 				<!-- End Single Service -->
 			</div>
@@ -389,9 +305,8 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-heart-alt"></i>
-					<h4><a href="service-details.html">Heart Surgery</a></h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
-						imperdiet. </p>
+					<h4><a href="#">Diet Solution</a></h4>
+					<p>Don’t know about the proper calorie intake according to your health condition? Find it from us. </p>
 				</div>
 				<!-- End Single Service -->
 			</div>
@@ -399,9 +314,8 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-listening"></i>
-					<h4><a href="service-details.html">Ear Treatment</a></h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
-						imperdiet. </p>
+					<h4><a href="#">General health problems</a></h4>
+					<p>For any kind of general sickness symptoms, contact us.</p>
 				</div>
 				<!-- End Single Service -->
 			</div>
@@ -409,9 +323,8 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-eye-alt"></i>
-					<h4><a href="service-details.html">Vision Problems</a></h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
-						imperdiet. </p>
+					<h4><a href="#">Psychological problem</a></h4>
+					<p>Need a proper concealing? Looking for the right person to talk? Choose your trusted doctor from us.</p>
 				</div>
 				<!-- End Single Service -->
 			</div>
@@ -419,9 +332,8 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-blood"></i>
-					<h4><a href="service-details.html">Blood Transfusion</a></h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
-						imperdiet. </p>
+					<h4><a href="#">COVID-19 Medical Problem</a></h4>
+					<p>Don’t leave the home and find the perfect solution for your long-term COVID-19 treatment. </p>
 				</div>
 				<!-- End Single Service -->
 			</div>
@@ -515,183 +427,6 @@
 </section>
 <!--/ End Testimonials -->
 
-<!-- Start Departments -->
-<section class="departments section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="section-title">
-					<h2>We Offer Different Departments To Diagnose Your Diseases</h2>
-					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img.png" alt="#">
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-12">
-				<div class="department-tab">
-					<!-- Nav Tab  -->
-					<ul class="nav nav-tabs" id="myTab" role="tablist">
-						<li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#t-tab1" role="tab"><i class="icofont-heart-beat"></i><span class="first">Cardiac
-									Clinic</span><span class="second">Lorem Sit</span></a></li>
-						<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#t-tab2" role="tab"><i class="icofont-brain-alt"></i><span class="first">Neurology</span><span class="second">Quis Est</span></a></li>
-						<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#t-tab3" role="tab"><i class="icofont-tooth"></i><span class="first">Dentistry</span><span class="second">Sit Dolor</span></a></li>
-						<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#t-tab4" role="tab"><i class="icofont-heart-beat"></i><span class="first">Gastroenterology</span><span class="second">Lorem Sit</span></a></li>
-						<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#t-tab5" role="tab"><i class="icofont-bone"></i><span class="first">Orthopedagogy</span><span class="second">Lorem Sit</span></a></li>
-					</ul>
-					<!--/ End Nav Tab -->
-					<div class="tab-content" id="myTabContent">
-						<!-- Tab 1 -->
-						<div class="tab-pane fade show active" id="t-tab1" role="tabpanel">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="department-left">
-										<h3>Cardiac Clinic</h3>
-										<p class="p1">“Vivamus ut tellus sed tellus finibus egestas. Mauris
-											adipiscing aliquet et nisl nec eleifend adipiscing elit.”</p>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-											pharetra ante vel est lobortis, a commodo magna rhoncus. In quis nisi
-											non quam pharetra commodo. </p>
-										<ul class="list">
-											<li><i class="fa fa-check"></i>Maecenas vitae luctus nibh. Curabitur
-												pharetra luctus est, sit amet aliquam ex posuere id. </li>
-											<li><i class="fa fa-check"></i> Maecenas pharetra ante vel est lobortis
-											</li>
-											<li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet, consectetur.
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="department-right">
-										<img src="<?php echo get_template_directory_uri() . "/"; ?>img/department.jpg" alt="#">
-									</div>
-								</div>
-							</div>
-						</div>
-						<!--/ End Tab 1 -->
-						<!-- Tab 2 -->
-						<div class="tab-pane fade" id="t-tab2" role="tabpanel">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="department-left">
-										<h3>Neurology</h3>
-										<p class="p1">“Vivamus ut tellus sed tellus finibus egestas. Mauris
-											adipiscing aliquet et nisl nec eleifend adipiscing elit.”</p>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-											pharetra ante vel est lobortis, a commodo magna rhoncus. In quis nisi
-											non quam pharetra commodo. </p>
-										<ul class="list">
-											<li><i class="fa fa-check"></i>Maecenas vitae luctus nibh. Curabitur
-												pharetra luctus est, sit amet aliquam ex posuere id. </li>
-											<li><i class="fa fa-check"></i> Maecenas pharetra ante vel est lobortis
-											</li>
-											<li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet, consectetur.
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="department-right">
-										<img src="<?php echo get_template_directory_uri() . "/"; ?>img/department.jpg" alt="#">
-									</div>
-								</div>
-							</div>
-						</div>
-						<!--/ End Tab 2 -->
-						<!-- Tab 3 -->
-						<div class="tab-pane fade" id="t-tab3" role="tabpanel">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="department-left">
-										<h3>Dentistry</h3>
-										<p class="p1">“Vivamus ut tellus sed tellus finibus egestas. Mauris
-											adipiscing aliquet et nisl nec eleifend adipiscing elit.”</p>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-											pharetra ante vel est lobortis, a commodo magna rhoncus. In quis nisi
-											non quam pharetra commodo. </p>
-										<ul class="list">
-											<li><i class="fa fa-check"></i>Maecenas vitae luctus nibh. Curabitur
-												pharetra luctus est, sit amet aliquam ex posuere id. </li>
-											<li><i class="fa fa-check"></i> Maecenas pharetra ante vel est lobortis
-											</li>
-											<li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet, consectetur.
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="department-right">
-										<img src="<?php echo get_template_directory_uri() . "/"; ?>img/department.jpg" alt="#">
-									</div>
-								</div>
-							</div>
-						</div>
-						<!--/ End Tab 3 -->
-						<!-- Tab 4 -->
-						<div class="tab-pane fade" id="t-tab4" role="tabpanel">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="department-left">
-										<h3>Gastroenterology</h3>
-										<p class="p1">“Vivamus ut tellus sed tellus finibus egestas. Mauris
-											adipiscing aliquet et nisl nec eleifend adipiscing elit.”</p>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-											pharetra ante vel est lobortis, a commodo magna rhoncus. In quis nisi
-											non quam pharetra commodo. </p>
-										<ul class="list">
-											<li><i class="fa fa-check"></i>Maecenas vitae luctus nibh. Curabitur
-												pharetra luctus est, sit amet aliquam ex posuere id. </li>
-											<li><i class="fa fa-check"></i> Maecenas pharetra ante vel est lobortis
-											</li>
-											<li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet, consectetur.
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="department-right">
-										<img src="<?php echo get_template_directory_uri() . "/"; ?>img/department.jpg" alt="#">
-									</div>
-								</div>
-							</div>
-						</div>
-						<!--/ End Tab 4 -->
-						<!-- Tab 5 -->
-						<div class="tab-pane fade" id="t-tab5" role="tabpanel">
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="department-left">
-										<h3>Orthopedagogy</h3>
-										<p class="p1">“Vivamus ut tellus sed tellus finibus egestas. Mauris
-											adipiscing aliquet et nisl nec eleifend adipiscing elit.”</p>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-											pharetra ante vel est lobortis, a commodo magna rhoncus. In quis nisi
-											non quam pharetra commodo. </p>
-										<ul class="list">
-											<li><i class="fa fa-check"></i>Maecenas vitae luctus nibh. Curabitur
-												pharetra luctus est, sit amet aliquam ex posuere id. </li>
-											<li><i class="fa fa-check"></i> Maecenas pharetra ante vel est lobortis
-											</li>
-											<li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet, consectetur.
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="department-right">
-										<img src="<?php echo get_template_directory_uri() . "/"; ?>img/department.jpg" alt="#">
-									</div>
-								</div>
-							</div>
-						</div>
-						<!--/ End Tab 5 -->
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Departments -->
 
 
 <!-- Start Team -->
@@ -702,7 +437,7 @@
 				<div class="section-title">
 					<h2>We Have Specialist Doctors To Solve Your Problems</h2>
 					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img2.png" alt="#">
-					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
+					<p>Which health issue are you facing? Book your specialist right from your smartphone. </p>
 				</div>
 			</div>
 		</div>
@@ -711,148 +446,60 @@
 				<!-- Single Team -->
 				<div class="single-team">
 					<div class="t-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/team1.jpg" alt="#">
+						<img src="http://bestaidbd.com/wp-content/uploads/2021/05/Doctors1.png" alt="#">
 						<div class="t-icon">
-							<a href="appointment.html" class="btn">Get Appointment</a>
+							<a href="http://bestaidbd.com/appointment/" class="btn">Get Appointment</a>
 						</div>
 					</div>
-					<div class="t-bottom">
-						<p>Neurosurgeon</p>
-						<h2><a href="doctor-details.html">Collis Molate</a></h2>
-					</div>
+					
 				</div>
 				<!-- End Single Team -->
 			</div>
-			<div class="col-lg-3 col-md-6 col-12 " data-tilt>
+
+			<div class="col-lg-3 col-md-6 col-12" data-tilt>
 				<!-- Single Team -->
 				<div class="single-team">
-					<!-- Team Head -->
 					<div class="t-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/team2.jpg" alt="#">
+						<img src="http://bestaidbd.com/wp-content/uploads/2021/05/Doctors2.png" alt="#">
 						<div class="t-icon">
-							<a href="appointment.html" class="btn">Get Appointment</a>
+							<a href="http://bestaidbd.com/appointment/" class="btn">Get Appointment</a>
 						</div>
 					</div>
-					<!-- Team Bottom -->
-					<div class="t-bottom">
-						<p>Neurosurgeon</p>
-						<h2><a href="doctor-details.html">Domani Plavon</a></h2>
-					</div>
-					<!--/ End Team Bottom -->
-				</div>
-				<!-- End Single Team -->
-			</div>
-			<div class="col-lg-3 col-md-6 col-12 " data-tilt>
-				<!-- Single Team -->
-				<div class="single-team">
-					<!-- Team Head -->
-					<div class="t-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/team3.jpg" alt="#">
-						<div class="t-icon">
-							<a href="appointment.html" class="btn">Get Appointment</a>
-						</div>
-					</div>
-					<!-- Team Bottom -->
-					<div class="t-bottom">
-						<p>Dental Surgeon</p>
-						<h2><a href="doctor-details.html">John Mard</a></h2>
-					</div>
-					<!--/ End Team Bottom -->
+					
 				</div>
 				<!-- End Single Team -->
 			</div>
 			<div class="col-lg-3 col-md-6 col-12" data-tilt>
 				<!-- Single Team -->
 				<div class="single-team">
-					<!-- Team Head -->
 					<div class="t-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/team4.jpg" alt="#">
+						<img src="http://bestaidbd.com/wp-content/uploads/2021/05/Doctors3.png" alt="#">
 						<div class="t-icon">
-							<a href="appointment.html" class="btn">Get Appointment</a>
+							<a href="http://bestaidbd.com/appointment/" class="btn">Get Appointment</a>
 						</div>
 					</div>
-					<!-- Team Bottom -->
-					<div class="t-bottom">
-						<p>Neurosurgeon</p>
-						<h2><a href="doctor-details.html">Amanal Frond</a></h2>
-					</div>
-					<!--/ End Team Bottom -->
+					
 				</div>
 				<!-- End Single Team -->
 			</div>
+			<div class="col-lg-3 col-md-6 col-12" data-tilt>
+				<!-- Single Team -->
+				<div class="single-team">
+					<div class="t-head">
+						<img src="http://bestaidbd.com/wp-content/uploads/2021/05/Doctors4.png" alt="#">
+						<div class="t-icon">
+							<a href="http://bestaidbd.com/appointment/" class="btn">Get Appointment</a>
+						</div>
+					</div>
+					
+				</div>
+				<!-- End Single Team -->
+			</div>
+			
 		</div>
 	</div>
 </section>
 <!--/ End Team -->
-
-<!-- Start Blog Area -->
-<section class="blog section" id="blog">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="section-title">
-					<h2>Keep up with Our Most Recent Medical News.</h2>
-					<img src="<?php echo get_template_directory_uri() . "/"; ?>img/section-img.png" alt="#">
-					<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-4 col-md-6 col-12">
-				<!-- Single Blog -->
-				<div class="single-news">
-					<div class="news-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/blog1.jpg" alt="#">
-					</div>
-					<div class="news-body">
-						<div class="news-content">
-							<div class="date">22 Aug, 2020</div>
-							<h2><a href="blog-single.html">We have annnocuced our new product.</a></h2>
-							<p class="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do
-								eiusmod tempor incididunt sed do incididunt sed.</p>
-						</div>
-					</div>
-				</div>
-				<!-- End Single Blog -->
-			</div>
-			<div class="col-lg-4 col-md-6 col-12">
-				<!-- Single Blog -->
-				<div class="single-news">
-					<div class="news-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/blog2.jpg" alt="#">
-					</div>
-					<div class="news-body">
-						<div class="news-content">
-							<div class="date">15 Jul, 2020</div>
-							<h2><a href="blog-single.html">Top five way for solving teeth problems.</a></h2>
-							<p class="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do
-								eiusmod tempor incididunt sed do incididunt sed.</p>
-						</div>
-					</div>
-				</div>
-				<!-- End Single Blog -->
-			</div>
-			<div class="col-lg-4 col-md-6 col-12">
-				<!-- Single Blog -->
-				<div class="single-news">
-					<div class="news-head">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/blog3.jpg" alt="#">
-					</div>
-					<div class="news-body">
-						<div class="news-content">
-							<div class="date">05 Jan, 2020</div>
-							<h2><a href="blog-single.html">We provide highly business soliutions.</a></h2>
-							<p class="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do
-								eiusmod tempor incididunt sed do incididunt sed.</p>
-						</div>
-					</div>
-				</div>
-				<!-- End Single Blog -->
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Blog Area -->
 
 <!-- Start clients -->
 <div class="clients overlay">

@@ -57,14 +57,7 @@
 										);
 									}
 									?>
-						<!-- Contact -->
-						<!-- <ul class="top-link">
-							<li><a href="#">About</a></li>
-							<li><a href="#">Doctors</a></li>
-							<li><a href="#">Contact</a></li>
-							<li><a href="#">FAQ</a></li>
-						</ul> -->
-						<!-- End Contact -->
+						
 					</div>
 					<div class="col-lg-6 col-md-7 col-12">
 						<!-- Top Contact -->
@@ -121,7 +114,7 @@
 						</div>
 						<div class="col-lg-2 col-12">
 							<div class="get-quote">
-								<a href="http://bestaidbd.sheikhsoft.com/appointment/" class="btn">Appointment</a>
+								<a href="http://bestaidbd.com/appointment/" class="btn">Appointment</a>
 							</div>
 						</div>
 					</div>
