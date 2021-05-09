@@ -60,8 +60,7 @@
 				<div class="col-lg-3 col-md-6 col-12">
 					<div class="single-footer">
 						<h2>Newsletter</h2>
-						<p>subscribe to our newsletter to get allour news in your inbox.. Lorem ipsum dolor sit
-							amet, consectetur adipisicing elit,</p>
+						<p>Always stay updated by signing up our newsletter. Join now!</p>
 						<form action="#" method="get" target="_blank" class="newsletter-inner">
 							<input name="email" placeholder="Email Address" class="common-input" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'" required="" type="email">
 							<button class="button"><i class="icofont icofont-paper-plane"></i></button>

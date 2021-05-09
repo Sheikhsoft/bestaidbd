@@ -184,7 +184,7 @@
 				<div class="single-fun">
 					<i class="icofont icofont-table"></i>
 					<div class="content">
-						<span class="counter">32</span>
+						<span class="counter">2</span>
 						<p>Years of Experience</p>
 					</div>
 				</div>
@@ -348,68 +348,26 @@
 				<div class="owl-carousel testimonial-slider">
 					<!-- Start Single Testimonial -->
 					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi1.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Ruhfayed Sakib</h4>
+						
+						<p>Health care is something on which everybody has right. Best Aid is doing great. Hope they will be spreading out even in the remote areas to the people who are deprived. Besides, ensuring quality service and equal Medicare for all is a tough job. Best Aid showed the courage. Highly appreciated </p>
+						<h4 class="name">Karoby Shihab</h4>
 					</div>
 					<!-- End Single Testimonial -->
 					<!-- Start Single Testimonial -->
 					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi2.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
+						
+						<p>Best Online Medical service ever...Thank you for being with us and being such a helpful page regarding medical Service. I will suggest everyone to go with this page for perfect medical suggestion instantly. You don’t need to wait for so long to get response. Again thank you #Best_Aid....</p>
+						<h4 class="name">Nurjahan Papia</h4>
+					</div>
+					<!-- End Single Testimonial -->
+					<!-- Start Single Testimonial -->
+					<div class="single-testimonial">
+						
+						<p>This is an amazing page I have ever seen. The people who provide medical service here, all are like an angel. Feel free to share your health-related problems & take best services from them. Otherwise, you'll regret yourselves.</p>
 						<h4 class="name">Shakil Hossain</h4>
 					</div>
 					<!-- End Single Testimonial -->
-					<!-- Start Single Testimonial -->
-					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi3.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Naimur Rahman</h4>
-					</div>
-					<!-- End Single Testimonial -->
-					<!-- Start Single Testimonial -->
-					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi1.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Ruhfayed Sakib</h4>
-					</div>
-					<!-- End Single Testimonial -->
-					<!-- Start Single Testimonial -->
-					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi2.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Shakil Hossain</h4>
-					</div>
-					<!-- End Single Testimonial -->
-					<!-- Start Single Testimonial -->
-					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi3.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Naimur Rahman</h4>
-					</div>
-					<!-- End Single Testimonial -->
-					<!-- Start Single Testimonial -->
-					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi1.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Ruhfayed Sakib</h4>
-					</div>
-					<!-- End Single Testimonial -->
-					<!-- Start Single Testimonial -->
-					<div class="single-testimonial">
-						<img src="<?php echo get_template_directory_uri() . "/"; ?>img/testi2.png" alt="#">
-						<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel
-							pretium eros. </p>
-						<h4 class="name">Naimur Rahman</h4>
-					</div>
-					<!-- End Single Testimonial -->
+					
 				</div>
 			</div>
 		</div>
@@ -540,7 +498,7 @@
 				<!-- Start Newsletter Form -->
 				<div class="subscribe-text ">
 					<h6>Sign up for newsletter</h6>
-					<p class="">Cu qui soleat partiendo urbanitas. Eum aperiri indoctum eu,<br> homero alterum.</p>
+					<p class="">Always stay updated by signing up our newsletter. Join now!</p>
 				</div>
 				<!-- End Newsletter Form -->
 			</div>
