@@ -156,40 +156,30 @@
 <div id="fun-facts" class="fun-facts section overlay">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-3 col-md-6 col-12">
-				<!-- Start Single Fun -->
-				<div class="single-fun">
-					<i class="icofont icofont-home"></i>
-					<div class="content">
-						<span class="counter">3468</span>
-						<p>Hospital Rooms</p>
-					</div>
-				</div>
-				<!-- End Single Fun -->
-			</div>
-			<div class="col-lg-3 col-md-6 col-12">
+			
+			<div class="col-lg-4 col-md-6 col-12">
 				<!-- Start Single Fun -->
 				<div class="single-fun">
 					<i class="icofont icofont-user-alt-3"></i>
 					<div class="content">
-						<span class="counter">557</span>
+						<span class="counter">100</span>
 						<p>Specialist Doctors</p>
 					</div>
 				</div>
 				<!-- End Single Fun -->
 			</div>
-			<div class="col-lg-3 col-md-6 col-12">
+			<div class="col-lg-4 col-md-6 col-12">
 				<!-- Start Single Fun -->
 				<div class="single-fun">
 					<i class="icofont-simple-smile"></i>
 					<div class="content">
-						<span class="counter">4379</span>
+						<span class="counter">1700</span>
 						<p>Happy Patients</p>
 					</div>
 				</div>
 				<!-- End Single Fun -->
 			</div>
-			<div class="col-lg-3 col-md-6 col-12">
+			<div class="col-lg-4 col-md-6 col-12">
 				<!-- Start Single Fun -->
 				<div class="single-fun">
 					<i class="icofont icofont-table"></i>
@@ -257,7 +247,7 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-12">
 				<div class="content">
-					<h2>Do you need Emergency Medical Care? Call @ 1234 56789</h2>
+					<h2>Do you need Emergency Medical Care? Call @ 01533443118</h2>
 					<p>Anytime, anywhere, reach us to access the easiest and most affordable medical service without second thought.</p>
 					<div class="button">
 						<a href="http://bestaidbd.com/contact/#/" class="btn">Contact Now</a>

@@ -7,8 +7,7 @@
 				<div class="col-lg-3 col-md-6 col-12">
 					<div class="single-footer">
 						<h2>About Us</h2>
-						<p>Lorem ipsum dolor sit am consectetur adipisicing elit do eiusmod tempor incididunt ut
-							labore dolore magna.</p>
+						<p>Best Aid is a 24/7 telemedicine service. We make you smile because your life matters to us. We ensure mass community Healthcare facilities with a minimum cost.</p>
 						<!-- Social -->
 						<ul class="social">
 							<li><a href="#"><i class="icofont-facebook"></i></a></li>
@@ -55,12 +54,7 @@
 				<div class="col-lg-3 col-md-6 col-12">
 					<div class="single-footer">
 						<h2>Open Hours</h2>
-						<p>Lorem ipsum dolor sit ame consectetur adipisicing elit do eiusmod tempor incididunt.</p>
-						<ul class="time-sidual">
-							<li class="day">Monday - Fridayp <span>8.00-20.00</span></li>
-							<li class="day">Saturday <span>9.00-18.30</span></li>
-							<li class="day">Monday - Thusday <span>9.00-15.00</span></li>
-						</ul>
+						<p>Always open</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-12">
